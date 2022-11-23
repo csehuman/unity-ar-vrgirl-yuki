@@ -1,0 +1,16 @@
+Unity-iPhone[[:space:]]Tests filter=lfs diff=lfs merge=lfs -text
+Data filter=lfs diff=lfs merge=lfs -text
+Unity-iPhone filter=lfs diff=lfs merge=lfs -text
+MainApp filter=lfs diff=lfs merge=lfs -text
+Unity-iPhone.xcodeproj filter=lfs diff=lfs merge=lfs -text
+Classes filter=lfs diff=lfs merge=lfs -text
+LaunchScreen-iPhonePortrait.png filter=lfs diff=lfs merge=lfs -text
+LaunchScreen-iPad.storyboard filter=lfs diff=lfs merge=lfs -text
+Libraries filter=lfs diff=lfs merge=lfs -text
+process_symbols.sh filter=lfs diff=lfs merge=lfs -text
+Info.plist filter=lfs diff=lfs merge=lfs -text
+LaunchScreen-iPad.png filter=lfs diff=lfs merge=lfs -text
+UnityData.xcassets filter=lfs diff=lfs merge=lfs -text
+UnityFramework filter=lfs diff=lfs merge=lfs -text
+LaunchScreen-iPhone.storyboard filter=lfs diff=lfs merge=lfs -text
+LaunchScreen-iPhoneLandscape.png filter=lfs diff=lfs merge=lfs -text
