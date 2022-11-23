@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="FaceEmoteSet">
+			<method name="SetEmoteAngry"/>
+			<method name="SetEmoteCuteEye"/>
+			<method name="SetEmoteDisable"/>
+			<method name="SetEmoteJoy"/>
+			<method name="SetEmoteSorrow"/>
+		</type>
+	</assembly>
+</linker>
